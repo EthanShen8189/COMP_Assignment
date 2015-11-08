@@ -146,7 +146,7 @@ public class BlockManager
 	{
 		/**
 		 * A copy of a block returned by pop().
-                 * @see BlocStack#pop()
+                 * @see : BlocStack#pop()
 		 */
 		private char cCopy;
 

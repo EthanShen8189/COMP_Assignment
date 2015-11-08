@@ -15,7 +15,6 @@ public class Semaphore
 	 * Current semaphore's value
 	 */
 	private int iValue;
-
 	/*
 	 * ------------
 	 * Constructors
